@@ -1,3 +1,2 @@
 |   #   | Folder Link | Assignment Description |
-|   | ----------- | ---------------------- |
 
