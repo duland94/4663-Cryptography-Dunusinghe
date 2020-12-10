@@ -20,9 +20,9 @@ Requirements:
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [get_factors.py](./get_factors.py)     | solution file(main file)                       |
-|   2   | [numbers.txt](./numbers.txt)     | input file                       |
-|   2   | [output data.PNG](.output data.PNG)     | input file                       |
+|   1   | [get_factors.py](./get_factors.py)      | solution file(main file)         |
+|   2   | [numbers.txt](./numbers.txt)            | input file                       |
+|   2   | [output data.PNG](./output data.PNG)    | output file                      |
                       
 
 >I made this stuff up, so don't go reading into it to deeply
