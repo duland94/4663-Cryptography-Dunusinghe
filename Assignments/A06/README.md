@@ -1,4 +1,4 @@
-## Assignment 5 - Vigenere Cracking
+## Assignment 6 - Prime Factors
 ### Dulan Dunusinghe
 ### Description:
 
